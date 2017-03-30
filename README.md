@@ -1,5 +1,7 @@
 # font-awesome-rails
 
+#### This fork base64 encodes the font files into the css, so that wktohtml pdfs display font awesome images.
+
 [![Gem Version](http://img.shields.io/gem/v/font-awesome-rails.svg)](https://rubygems.org/gems/font-awesome-rails)
 [![Build Status](https://secure.travis-ci.org/bokmann/font-awesome-rails.svg)](http://travis-ci.org/bokmann/font-awesome-rails)
 [![Gem Downloads](https://img.shields.io/gem/dt/font-awesome-rails.svg)](https://rubygems.org/gems/font-awesome-rails)
